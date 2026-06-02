@@ -16,3 +16,8 @@ Mind that the purpose of this port is not pixel-perfection, just `similar enough
   - `src/components/themed-text.tsx` → `src/components/themed-text.swiftui.tsx`
 
 ## Comparison
+
+|                                            Default                                             |                                              with ExpoUI                                              |
+| :--------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+| ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/explore.png?raw=true) | ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/explore.expoui.png?raw=true) |
+|  ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/index.png?raw=true)  |  ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/index.expoui.png?raw=true)  |
