@@ -17,7 +17,8 @@ Mind that the purpose of this port is not pixel-perfection, just `similar enough
 
 ## Comparison
 
-|                                            Default                                             |                                              with ExpoUI                                              |
-| :--------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-|  ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/home.png?raw=true)   |  ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/home.expoui.png?raw=true)   |
-| ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/explore.png?raw=true) | ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/explore.expoui.png?raw=true) |
+|                                                                             Default                                                                             |                                                                            with ExpoUI                                                                            |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                   ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/home.png?raw=true)                                   |                                ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/home.expoui.png?raw=true)                                 |
+|                                 ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/explore.png?raw=true)                                  |                               ![](https://github.com/rotoxl/expo-sdk56-template-swiftUI/blob/main/docs/explore.expoui.png?raw=true)                               |
+| <video src="https://raw.githubusercontent.com/rotoxl/expo-sdk56-template-swiftUI/main/docs/splash-expo.mp4?raw=true" width="320" height="240" controls></video> | <video src="https://raw.githubusercontent.com/rotoxl/expo-sdk56-template-swiftUI/main/docs/splash-expoUI.mp4?raw=true" width="320" height="240" controls></video> |
